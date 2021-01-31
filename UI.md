@@ -2,5 +2,5 @@
 
 [深入理解现代浏览器](https://lisongfeng.cn/2019/06/05/understanding-modern-browsers.html)
 
--  [深入理解现代浏览器 - 为之漫笔.pdf](data/static_pages/pdf/深入理解现代浏览器 - 为之漫笔.pdf) 
+ [深入理解现代浏览器 - 为之漫笔.pdf](data/static_pages/pdf/深入理解现代浏览器 - 为之漫笔.pdf) 
 
