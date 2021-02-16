@@ -7,7 +7,7 @@
 [什么是量子计算机？做一台量子计算机有哪些困难？](https://www.youtube.com/watch?v=OJEoWNZKcfs&ab_channel=%E5%A6%88%E5%92%AA%E8%AF%B4MommyTalk)
 
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/embed/OJEoWNZKcfs "Little red riding hood - Click to Watch!")
+[![什么是量子计算机？做一台量子计算机有哪些困难？](https://yt3.ggpht.com/ytc/AAUvwngz7_Jce6Dgg52hmH3okh5YEKbmR0F4RXRRhRsH=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/embed/OJEoWNZKcfs "Click to Watch!")
 
 
  
