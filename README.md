@@ -11,3 +11,11 @@ Only Links Here
 
 [K8s](https://github.com/476678244/learn_skills_quickly/blob/main/K8s.md)
 
+[Quantum.md](Quantum.md) 
+
+[UI.md](UI.md) 
+
+[AI.md](AI.md) 
+
+[MessageQueue.md](MessageQueue.md) 
+
