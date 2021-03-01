@@ -1,5 +1,6 @@
 # learn_skills_quickly
-Only Links Here
+- Only links, just links.
+
 
 
 
