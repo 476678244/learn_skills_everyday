@@ -1,5 +1,6 @@
 # learn_skills_quickly
-- Only links, just links.
+- Only links, just links
+- Only for intro, just introduce you to a new skill area
 
 
 
