@@ -13,13 +13,14 @@
 
 [K8s](https://github.com/476678244/learn_skills_quickly/blob/main/K8s.md)
 
-[Quantum.md](Quantum.md) 
+[Quantum](Quantum.md) 
 
-[UI.md](UI.md) 
+[UI](UI.md) 
 
-[AI.md](AI.md) 
+[AI](AI.md) 
 
-[MessageQueue.md](MessageQueue.md) 
+[MessageQueue](MessageQueue.md) 
 
-[Math.md](Math.md)
+[Math](Math.md)
 
+[Life](Life.md)
