@@ -28,3 +28,5 @@
 [Shell](Shell.md)
 
 [OLAP](OLAP.md)
+
+[Recommendation](Recommendation.md)
