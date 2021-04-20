@@ -1,4 +1,4 @@
-# learn_skills_quickly
+# learn_skills_everyday
 - Only links, just links
 - Only for intro, just for introducing to a new skill area quickly
 
