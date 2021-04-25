@@ -34,5 +34,3 @@
 [Python](Python.md)
 
 [DataWarehouse](DataWarehouse.md)
-
-[Spark](Spark.md)
