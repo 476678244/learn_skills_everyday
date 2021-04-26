@@ -34,3 +34,5 @@
 [Python](Python.md)
 
 [DataWarehouse](DataWarehouse.md)
+
+[Model](Model.md)
