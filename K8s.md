@@ -1,4 +1,4 @@
-![](http://matt33.com/images/k8s/k8s-history.png)
+![Kubernetes 的发展历程如下图所示](http://matt33.com/images/k8s/k8s-history.png)
 
 [【kubernetes入门】快速了解和上手容器编排工具k8s](https://www.youtube.com/watch?v=HsvAVGjlN9k&ab_channel=FreeCoder)
 
