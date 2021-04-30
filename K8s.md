@@ -6,3 +6,5 @@
 [本地运行 Kubernetes 的 4 种方法](https://linux.cn/article-12825-1.html)
 
 [图解 K8s 核心概念和术语](https://xie.infoq.cn/article/09cbb998e6e24953c9542d7c3)
+
+[Kubenetes 之新手入门篇](http://matt33.com/2020/08/02/kubernetes-start/)
