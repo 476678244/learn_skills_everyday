@@ -3,3 +3,5 @@
 [TensorFlow 篇 | TensorFlow 2.x 模型 Serving 服务](https://flashgene.com/archives/154963.html)
 
 [Keras Optimizers](https://keras.io/zh/optimizers/#adagrad)
+
+[Keras activations](https://keras.io/zh/activations/#sigmoid)
