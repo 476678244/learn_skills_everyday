@@ -9,3 +9,5 @@
 [Spark底层原理详细解析](https://www.cnblogs.com/itlz/p/14343315.html)
 
 [（行转列、列转行、Lateral View、排序）](https://www.cnblogs.com/ljhdo/p/14263019.html)
+
+[大数据组件Presto，Spark SQL，Hive相互关系](https://blog.csdn.net/yilulvxing/article/details/86220888)
