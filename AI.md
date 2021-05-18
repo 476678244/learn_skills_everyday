@@ -5,3 +5,5 @@
 [Keras Optimizers](https://keras.io/zh/optimizers/#adagrad)
 
 [Keras activations](https://keras.io/zh/activations/#sigmoid)
+
+[SHAP：Python的可解释机器学习库](https://zhuanlan.zhihu.com/p/83412330)
