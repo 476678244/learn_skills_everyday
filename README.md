@@ -7,9 +7,9 @@
 
 [代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
 
-[Spark](spark.md)
+[Spark](Spark.md)
 
-[Network](network.md)
+[Network](Network.md)
 
 [K8s](K8s.md)
 
