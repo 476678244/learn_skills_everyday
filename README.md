@@ -46,3 +46,5 @@
 [DDD](DDD.md)
 
 [Testing](Testing.md)
+
+[Best Practice](best_practice.md)
