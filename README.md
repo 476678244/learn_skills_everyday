@@ -1,6 +1,6 @@
 # learn_skills_everyday
 - Only links, just links
-- Only for intro, just for introducing to a new skill area quickly
+- Collecting easy to understand articles I read in days
 
 
 
