@@ -25,7 +25,7 @@
 
 [Math](Math.md)
 
-[Life](Life.md)
+[Life&Tips](Life.md)
 
 [Shell](Shell.md)
 
