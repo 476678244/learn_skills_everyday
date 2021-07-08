@@ -3,45 +3,31 @@
 - Collecting easy to understand articles I read in days
 
 
-
-
-[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
+## Big Data
 
 [Spark](Spark.md)
 
 [Flink](Flink.md)
 
-[Network](Network.md)
-
-[K8s](K8s.md)
+## Foudamentals
 
 [Quantum](Quantum.md) 
 
-[UI](UI.md) 
-
-[AI](AI.md) 
-
-[MessageQueue](MessageQueue.md) 
+[Network](Network.md)
 
 [Math](Math.md)
-
-[Life&Tips](Life.md)
-
-[Shell](Shell.md)
-
-[OLAP](OLAP.md)
-
-[Recommendation](Recommendation.md)
-
-[Python](Python.md)
 
 [DataWarehouse](DataWarehouse.md)
 
 [Model](Model.md)
 
-[Kafka](Kafka.md)
+## Coding
 
-[Bookkeeper](Bookkeeper.md)
+[UI](UI.md) 
+
+[Shell](Shell.md)
+
+[Python](Python.md)
 
 [CodeStyle](CodeStyle.md)
 
@@ -49,4 +35,30 @@
 
 [Testing](Testing.md)
 
+## Framework
+
+[K8s](K8s.md)
+
+[OLAP](OLAP.md)
+
+[MessageQueue](MessageQueue.md) 
+
+[Recommendation](Recommendation.md)
+
+[Kafka](Kafka.md)
+
+[Bookkeeper](Bookkeeper.md)
+
+## Industry
+
+[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
+
+[AI](AI.md) 
+
 [Best Practice](best_practice.md)
+
+## Others
+
+[Life&Tips](Life.md)
+
+
