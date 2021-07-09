@@ -21,6 +21,8 @@
 
 [Model](Model.md)
 
+[DistributedComputing](DistributedComputing.md)
+
 ## Coding
 
 [UI](UI.md) 
