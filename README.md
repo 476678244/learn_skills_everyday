@@ -65,4 +65,6 @@
 
 [Life&Tips](Life.md)
 
+[Philosophy](Philosophy.md)
+
 
