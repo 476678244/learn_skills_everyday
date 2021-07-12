@@ -9,7 +9,7 @@
 
 [Flink](Flink.md)
 
-## Foudamentals
+## Concepts
 
 [Quantum](Quantum.md) 
 
