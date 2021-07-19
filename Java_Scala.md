@@ -6,3 +6,8 @@
 
 [图解 Monad](http://www.ruanyifeng.com/blog/2015/07/monad.html)
 >你只要提供下一步运算所需的函数，整个运算就会自动进行下去。
+
+## Sbt plugins
+[sbt-scoverage](https://github.com/scoverage/sbt-scoverage)
+
+[sbt-assembly](https://github.com/sbt/sbt-assembly)
