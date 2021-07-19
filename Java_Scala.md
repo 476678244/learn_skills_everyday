@@ -9,5 +9,6 @@
 
 ## Sbt plugins
 [sbt-scoverage](https://github.com/scoverage/sbt-scoverage)
+>[Code Coverage for Scala using scoverage and sbt](https://www.youtube.com/watch?v=oz_HcHvbp7Y)
 
 [sbt-assembly](https://github.com/sbt/sbt-assembly)
