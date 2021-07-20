@@ -5,6 +5,8 @@
 
 ## Big Data
 
+[Hadoop](Hadoop.md)
+
 [Spark](Spark.md)
 
 [Flink](Flink.md)
