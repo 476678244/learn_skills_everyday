@@ -1,3 +1,7 @@
+## Kafka
+[Java工程师的进阶之路 Kafka篇（一）](https://juejin.cn/post/6953903023454158879)
+
+## Pulsa
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
 
 [我为什么放弃Kafka，选择Pulsar？](https://www.modb.pro/db/44555)
