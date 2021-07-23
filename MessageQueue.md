@@ -1,6 +1,8 @@
 ## Kafka
 [Java工程师的进阶之路 Kafka篇（一）](https://juejin.cn/post/6953903023454158879)
 
+[一文快速了解Kafka](https://jishuin.proginn.com/p/763bfbd57884)
+
 ## Pulsa
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
 
