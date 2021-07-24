@@ -14,3 +14,5 @@
 [选购电子产品时必须看懂的概念：详解数字世界里的色彩](https://sspai.com/post/65813)
 
 [在 Windows 下使用多块屏幕的你，可以收下这些建议](https://sspai.com/post/66381)
+
+[从开源到应用分发，利用 GitHub 你能做这些事 ](https://sspai.com/post/66131)
