@@ -73,6 +73,8 @@
 
 [Markdown](Markdown.md)
 
+[CVS&Git](CVS_git.md)
+
 ## Others
 
 [Life&Tips](Life.md)
