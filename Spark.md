@@ -28,4 +28,5 @@
 
 [超全spark性能优化总结](https://zhuanlan.zhihu.com/p/108454557)
 
+[Spark 3.0 中七个必须知道的 SQL 性能优化](http://www.cxyzjd.com/article/w397090770/107241259)
 
