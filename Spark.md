@@ -17,6 +17,8 @@
 
 [为什么Spark比MapReduce快？](https://www.zhihu.com/question/31930662)
 
+[一文了解 Apache Spark 3.0 动态分区裁剪（Dynamic Partition Pruning）](https://blog.csdn.net/wypblog/article/details/102908685)
+
 ## 用法
 
 [Spark Launcher Java API 提交 Spark 算法](https://xie.infoq.cn/article/3d84053a4e17c468f0b546ef5)
