@@ -26,7 +26,9 @@
 [行转列、列转行、Lateral View、排序](https://www.cnblogs.com/ljhdo/p/14263019.html)
 
 ## Performance Tuning
-[Spark性能优化指南——高级篇](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650243434&idx=1&sn=0d3d04d9719fd6e40072a74129e8f7f2&chksm=8f5aeb36b82d6220a1ac90cb89f36f5a2453a771bbd42390ff243ef0371831a23346fbf4a462#rd)
+[Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
+
+[Spark性能优化指南——高级篇](https://tech.meituan.com/2016/05/12/spark-tuning-pro.html)
 
 [超全spark性能优化总结](https://zhuanlan.zhihu.com/p/108454557)
 
