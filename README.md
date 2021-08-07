@@ -1,6 +1,6 @@
 # learn_skills_everyday
 - Only links, just links
-- Good or easy to understand articles I ever read
+- Clear, easy and I can understand articles I ever read
 - [RSS](https://github.com/476678244/learn_skills_everyday/commits/main.atom)
 
 ## Big Data
