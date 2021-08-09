@@ -11,6 +11,8 @@
 
 [Flink](Flink.md)
 
+[DataWarehouse](DataWarehouse.md)
+
 ## Concepts
 
 [Quantum](Quantum.md) 
@@ -18,8 +20,6 @@
 [Network](Network.md)
 
 [Math](Math.md)
-
-[DataWarehouse](DataWarehouse.md)
 
 [Model](Model.md)
 
