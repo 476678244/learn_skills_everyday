@@ -6,3 +6,5 @@
 
 ## 模型应用
 [Solving a MIP Problem](https://developers.google.com/optimization/mip/integer_opt)
+
+[Ortools调用第三方求解器](https://zhuanlan.zhihu.com/p/143524179)
