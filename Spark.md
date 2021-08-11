@@ -7,6 +7,8 @@
 
 ## 入门
 
+[带你深入浅出，彻底了解什么是Spark？](https://blog.51cto.com/u_15105906/2842768)
+
 [The Spark Starter Guide](https://hadoopsters.com/spark/)
 
 [Spark底层原理详细解析](https://www.cnblogs.com/itlz/p/14343315.html)
