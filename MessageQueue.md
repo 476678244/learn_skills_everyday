@@ -1,4 +1,7 @@
 ## Kafka
+
+[女朋友看了也懂的Kafka（上篇）](https://www.cnblogs.com/liangzilx/p/14855278.html)
+
 [Java工程师的进阶之路 Kafka篇（一）](https://juejin.cn/post/6953903023454158879)
 
 [一文快速了解Kafka](https://jishuin.proginn.com/p/763bfbd57884)
