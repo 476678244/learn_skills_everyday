@@ -23,7 +23,7 @@
 
 [Model](Model.md)
 
-[DistributedComputing](DistributedComputing.md)
+[Distributed Computing](DistributedComputing.md)
 
 [Graph](Graph.md)
 
