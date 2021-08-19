@@ -57,7 +57,7 @@
 
 [OLAP](OLAP.md)
 
-[MessageQueue](MessageQueue.md) 
+[Message](MessageQueue.md) 
 
 [Recommendation](Recommendation.md)
 
