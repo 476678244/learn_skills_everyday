@@ -8,6 +8,11 @@
 >你只要提供下一步运算所需的函数，整个运算就会自动进行下去。
 
 [Testing with ScalaMock](https://scalamock.org/quick-start/)
+
+## Async
+
+[异步编程的几种方式 ](https://ericfu.me/several-ways-to-aync/)
+
 ## Sbt plugins
 [sbt-scoverage](https://github.com/scoverage/sbt-scoverage)
 >[Code Coverage for Scala using scoverage and sbt](https://www.youtube.com/watch?v=oz_HcHvbp7Y)
