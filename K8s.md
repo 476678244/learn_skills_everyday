@@ -4,7 +4,9 @@
 
 [Kubenetes 之新手入门篇](http://matt33.com/2020/08/02/kubernetes-start/)
 
-[【kubernetes入门】快速了解和上手容器编排工具k8s](https://www.youtube.com/watch?v=HsvAVGjlN9k&ab_channel=FreeCoder)
+[快速了解和上手容器编排工具k8s](https://www.youtube.com/watch?v=HsvAVGjlN9k&ab_channel=FreeCoder)
+
+[Kubernetes介绍篇：是什么? 为什么要用它？](https://my.oschina.net/xcbeyond/blog/5048401)
 
 ![](https://img-blog.csdnimg.cn/20201026154555648.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hjYmV5b25k,size_16,color_FFFFFF,t_70#pic_center)
 
