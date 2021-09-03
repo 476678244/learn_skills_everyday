@@ -11,9 +11,9 @@
 
 [Flink](Flink.md)
 
-[DataWarehouse](DataWarehouse.md)
-
 ## Concepts
+
+[Storage](Storage.md)
 
 [Quantum](Quantum.md) 
 
