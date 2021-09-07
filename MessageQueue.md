@@ -1,4 +1,4 @@
-## Kafka 入门
+## Kafka
 
 [女朋友看了也懂的Kafka（上篇）](https://www.cnblogs.com/liangzilx/p/14855278.html)
 
@@ -7,6 +7,8 @@
 [一文快速了解Kafka](https://jishuin.proginn.com/p/763bfbd57884)
 
 [Visualizing Kafka](https://timothystepro.medium.com/visualizing-kafka-20bc384803e7)
+
+[Kafka 会不会丢消息？ ](https://juejin.cn/post/6975066050287288327)
 
 ## Pulsa
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
