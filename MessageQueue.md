@@ -1,3 +1,7 @@
+## RabbitMQ
+
+[When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
+
 ## Kafka
 
 [女朋友看了也懂的Kafka（上篇）](https://www.cnblogs.com/liangzilx/p/14855278.html)
