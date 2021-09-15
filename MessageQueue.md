@@ -14,6 +14,8 @@
 
 [Kafka 会不会丢消息？ ](https://juejin.cn/post/6975066050287288327)
 
+[Three simple ideas to make your life easier with Kafka](https://www.galiglobal.com/blog/2021/20210430-Three-Kafka-good-practices.html)
+
 ## Pulsa
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
 
