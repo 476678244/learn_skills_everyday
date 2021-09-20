@@ -27,6 +27,8 @@
 
 [行转列、列转行、Lateral View、排序](https://www.cnblogs.com/ljhdo/p/14263019.html)
 
+[spill to disk and shuffle write are two different things](https://stackoverflow.com/questions/41661849/spill-to-disk-and-shuffle-write-spark)
+
 ## Performance Tuning
 [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 
