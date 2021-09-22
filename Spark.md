@@ -5,6 +5,8 @@
 
 [深入浅出 Spark（三）：Spark 调度系统之“权力的游戏”](https://www.infoq.cn/article/5aOHzQIaXX6NlHriLtSI)
 
+[深入浅出 Spark（四）：存储系统](https://www.infoq.cn/article/civuder65orp1lyods8a)
+
 ## 入门
 
 [带你深入浅出，彻底了解什么是Spark？](https://blog.51cto.com/u_15105906/2842768)
