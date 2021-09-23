@@ -31,6 +31,8 @@
 
 [spill to disk and shuffle write are two different things](https://stackoverflow.com/questions/41661849/spill-to-disk-and-shuffle-write-spark)
 
+[Spark 之 故障排除（一） ](https://juejin.cn/post/6972333997774864420)
+
 ## Performance Tuning
 [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 
