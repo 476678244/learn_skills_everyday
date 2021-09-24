@@ -33,6 +33,8 @@
 
 [Spark 之 故障排除（一） ](https://juejin.cn/post/6972333997774864420)
 
+[Spark 之 故障排除（二） ](https://juejin.cn/post/6972853997812056100)
+
 ## Performance Tuning
 [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 
