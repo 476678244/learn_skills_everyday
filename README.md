@@ -13,7 +13,7 @@
 
 ## Concepts
 
-[Storage](Storage.md)
+[Storage & Database](storage/Storage.md)
 
 [Quantum](Quantum.md) 
 
