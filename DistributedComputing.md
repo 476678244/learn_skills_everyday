@@ -6,3 +6,6 @@
 
 [聊聊分布式事务，再说说解决方案](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
 >我们无法做到强一致，但每个应用都可以根据自身的业务特点，采用适当的方式来使系统达到最终一致性（Eventual consistency）
+
+## 云原生
+[CNCF 全景图](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
