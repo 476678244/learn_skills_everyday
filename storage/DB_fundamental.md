@@ -13,5 +13,8 @@
 [复合索引](https://blog.csdn.net/dba_waterbin/article/details/8954690)
 >在为复合索引字段排序时、应该综合考虑权衡前缀性和可选性、绝不可偏袒任何一方
 
+[视图](http://dbadiaries.com/database-views)
+>There is no performance difference between running the SQL or running database views. If you look at both SQL Server and MySQL, the execution plans are identical between the SQL and database views.
+
 [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html)
 >B树是对二叉查找树的改进。它的设计思想是，将相关数据尽量集中在一起，以便一次读取多个数据，减少硬盘操作次数。这种数据结构，非常有利于减少读取硬盘的次数。假定一个节点可以容纳100个值，那么3层的B树可以容纳100万个数据，如果换成二叉查找树，则需要20层！假定操作系统一次读取一个节点，并且根节点保留在内存中，那么B树在100万个数据中查找目标值，只需要读取两次硬盘。
