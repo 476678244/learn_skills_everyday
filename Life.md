@@ -15,3 +15,6 @@
 [从开源到应用分发，利用 GitHub 你能做这些事 ](https://sspai.com/post/66131)
 
 [劳动仲裁：一份可遇不可求的宝贵经历和独特体验 ](https://sspai.com/post/66272)
+
+[macOS 如何限制进程 CPU 占用](https://sspai.com/post/67331)
+>由于 cputhrottle 的源码比较少，我就稍微看了看，发现核心逻辑还是不复杂的，会根据指定进程的 CPU 使用时间来采样，计算出需要控制的占比，最终通过系统调用（Mach 内核 task 相关的接口，这个 task 在 macOS 的内核中相当于进程的概念）来挂起 task，并休眠一定的时间，达到让出 CPU 资源的目的。
