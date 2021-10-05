@@ -3,6 +3,7 @@
 [MPP架构](https://blog.csdn.net/ioteye/article/details/113452551)
 
 [MPP vs. sql on hadoop](https://www.zhihu.com/question/27589901)
+>MPP数据库适合存储高密度价值数据，并且是长期存储和多次使用，所以MPP并行数据库会花大量经历在Load阶段，把数据处理成适合分析格式。带来的优点是查询速度快，通常在秒计甚至毫秒级以内就可以返回查询结果。
 
 ## 事务
 
