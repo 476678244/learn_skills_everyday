@@ -1,3 +1,6 @@
+## MPP
+[MPP架构](https://blog.csdn.net/ioteye/article/details/113452551)
+
 ## 事务
 
 [事务及其ACID特性](https://jiang-hao.com/articles/2019/backend-transactions-acid.html)
