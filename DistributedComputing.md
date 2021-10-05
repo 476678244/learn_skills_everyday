@@ -1,5 +1,8 @@
 ## MPP
+
 [MPP架构](https://blog.csdn.net/ioteye/article/details/113452551)
+
+[MPP vs. sql on hadoop](https://www.zhihu.com/question/27589901)
 
 ## 事务
 
