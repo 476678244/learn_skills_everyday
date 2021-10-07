@@ -13,7 +13,7 @@
 
 ## Database
 
-[数据库基础](storage/DB_fundamental.md)
+[数据库基础](DB_fundamental.md)
 
-[MongoDB](storage/MongoDB.md)
+[MongoDB](MongoDB.md)
 
