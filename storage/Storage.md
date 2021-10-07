@@ -15,6 +15,9 @@
 
 [列存储格式Parquet浅析](https://www.jianshu.com/p/47b39ae336d5)
 
+[Redshift列式存储](https://docs.amazonaws.cn/redshift/latest/dg/c_columnar_storage_disk_mem_mgmnt.html)
+>实际上，通过使用具有大量列和行的表，可大幅提高效率。例如，假定一个表包含 100 个列。使用 5 个列的查询仅需读取表中 5% 的数据。对于大型数据库，可为数十亿或甚至数万亿记录实现此节省。相反，一个行式数据库将读取包含 95 个不需要的列的数据块。
+
 ## Database
 
 [数据库基础](DB_fundamental.md)
