@@ -8,7 +8,7 @@
 [MPP之Amazon Redshift数据库](https://www.cnblogs.com/FengGeBlog/p/9816144.html)
 >Amazon Redshift基于企业级PostgreSQL数据库，有大规模并行处理（MPP）结构，MPP可以通过将数据分布到各个计算节点来解决海量数据的处理难题。在Redshift中，每个集群有一个管理节点和多个计算节点。集群内部使用私有、高速、 低延时的网络连接。每个计算节点都有单独的CPU，内存和附加存储，并且每个计算节点有多个分区，您的数据被分布保存在计算节点的多个分区内，因此每个分区的数据量大大减少，您的查询会在多个分区并行执行，大大的增加了查询的效率。
 
-## 事务
+## 分布式事务
 
 [事务及其ACID特性](https://jiang-hao.com/articles/2019/backend-transactions-acid.html)
 
