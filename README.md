@@ -45,7 +45,7 @@
 
 [Testing](Testing.md)
 
-[Scala&Java](Java_Scala.md)
+[JVM & Java & Scala](Java_Scala.md)
 
 [StackOverFlow](StackOverFlow.md)
 
