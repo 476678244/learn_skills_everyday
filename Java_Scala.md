@@ -1,3 +1,5 @@
+## Scala
+
 [写点什么-有关jvm,scala与后端架构](https://hongjiang.info/scala/)
 
 [Add a variable to a class instance at runtime](https://rosettacode.org/wiki/Add_a_variable_to_a_class_instance_at_runtime#Python)
@@ -8,6 +10,9 @@
 >你只要提供下一步运算所需的函数，整个运算就会自动进行下去。
 
 [Testing with ScalaMock](https://scalamock.org/quick-start/)
+
+[Use List instead of Stack](https://stackoverflow.com/questions/43866787/scala-2-12-tells-me-stack-is-deprecated-how-to-replace-it-exactly-and-why-i-do)
+>var a = new List ; a = XXX +: a ; a = a.tail
 
 ## Async
 
