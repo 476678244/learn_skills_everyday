@@ -61,8 +61,6 @@
 
 [Recommendation](Recommendation.md)
 
-[Kafka](Kafka.md)
-
 [Bookkeeper](Bookkeeper.md)
 
 ## Industry
