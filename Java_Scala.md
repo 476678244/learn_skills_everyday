@@ -34,14 +34,14 @@
 - 公平锁为了保证时间上的绝对顺序，需要频繁的上下文切换，而非公平锁会降低一定的上下文切换，降低性能开销。因此，ReentrantLock默认选择的是非公平锁，则是为了减少一部分上下文切换，保证了系统更大的吞吐量。
 
 ## 聊聊并发系列
-1. [聊聊并发（一）深入分析Volatile的实现原理](http://ifeve.com/?p=1)
-2. [聊聊并发（二）Java SE1.6中的Synchronized](http://ifeve.com/?p=21)
-3. [聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
-4. [聊聊并发（四）深入分析ConcurrentHashMap](http://ifeve.com/?p=269)
-5. [聊聊并发（五）原子操作的实现原理](http://ifeve.com/atomic-operation/)
-6. [聊聊并发（六）ConcurrentLinkedQueue的实现原理
+- [聊聊并发（一）深入分析Volatile的实现原理](http://ifeve.com/?p=1)
+- [聊聊并发（二）Java SE1.6中的Synchronized](http://ifeve.com/?p=21)
+- [聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
+- [聊聊并发（四）深入分析ConcurrentHashMap](http://ifeve.com/?p=269)
+- [聊聊并发（五）原子操作的实现原理](http://ifeve.com/atomic-operation/)
+- [聊聊并发（六）ConcurrentLinkedQueue的实现原理
     ](http://ifeve.com/concurrentlinkedqueue/)
-7. [聊聊并发（七）Java中的阻塞队列](http://ifeve.com/java-blocking-queue/)
-8. [聊聊并发（八）Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
-9. [聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
-10. [聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
+- [聊聊并发（七）Java中的阻塞队列](http://ifeve.com/java-blocking-queue/)
+- [聊聊并发（八）Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
+- [聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
+- [聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
