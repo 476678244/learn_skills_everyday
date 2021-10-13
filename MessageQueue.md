@@ -16,6 +16,8 @@
 
 [Three simple ideas to make your life easier with Kafka](https://www.galiglobal.com/blog/2021/20210430-Three-Kafka-good-practices.html)
 
+[重磅开源 KSQL：用于 Apache Kafka 的流数据 SQL 引擎](https://www.infoq.cn/article/2017/08/ksql-open-source-apache-kafka)
+
 ## Pulsa
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
 
