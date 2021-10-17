@@ -9,74 +9,24 @@
 
 ## Concepts
 
-[Storage & Database](storage/Storage.md)
-
-[Quantum](Quantum.md) 
-
-[Network](Network.md)
-
-[Math](Math.md)
-
-[Model](Model.md)
-
-[Distributed Computing](DistributedComputing.md)
-
-[Graph](Graph.md)
-
-[Container](Container.md)
-
-[Security & Authentication](security(Auth).md)
+[Storage & Database](storage/Storage.md) [Quantum](Quantum.md)  [Network](Network.md) [Math](Math.md) [Model](Model.md) [Distributed Computing](DistributedComputing.md) [Graph](Graph.md) [Container](Container.md) [Security & Authentication](security(Auth).md)
 
 ## Coding
 
-[UI](FrontEndDevelopment.md) 
-
-[Shell](Shell.md)
-
-[Python](Python.md)
-
-[CodeStyle](CodeStyle.md)
-
-[DDD](DDD.md)
-
-[Testing](Testing.md)
-
-[JVM & Java & Scala](Java_Scala.md)
-
-[StackOverFlow](StackOverFlow.md)
+[UI](FrontEndDevelopment.md)  [Shell](Shell.md) [Python](Python.md) [CodeStyle](CodeStyle.md) [DDD](DDD.md) [Testing](Testing.md) [JVM & Java & Scala](Java_Scala.md) [StackOverFlow](StackOverFlow.md)
 
 ## Framework
 
-[Spring](Spring.md)
-
-[K8s](K8s.md)
-
-[OLAP](OLAP.md)
-
-[Message](MessageQueue.md) 
-
-[Recommendation](Recommendation.md)
-
-[Bookkeeper](Bookkeeper.md)
+[Spring](Spring.md) [K8s](K8s.md) [OLAP](OLAP.md) [Message](MessageQueue.md)  [Recommendation](Recommendation.md) [Bookkeeper](Bookkeeper.md)
 
 ## Industry
 
-[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
-
-[AI](AI.md) 
-
-[Best Practice](best_practice.md)
+[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md) [AI](AI.md)  [Best Practice](best_practice.md)
 
 ## Tools
 
-[Markdown](Markdown.md)
-
-[Encription](encription.md)
+[Markdown](Markdown.md) [Encription](encription.md)
 
 ## Others
 
-[Life&Tips](Life.md)
-
-[Philosophy](Philosophy.md)
-
-[投资理财](Investment.md)
+[Life&Tips](Life.md) [Philosophy](Philosophy.md) [投资理财](Investment.md)
