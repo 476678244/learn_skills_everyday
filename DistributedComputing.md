@@ -1,3 +1,5 @@
+[多租户](https://www.redhat.com/zh/topics/cloud-computing/what-is-multitenancy)
+
 ## MPP
 
 [MPP架构](https://blog.csdn.net/ioteye/article/details/113452551)
@@ -18,4 +20,6 @@
 >我们无法做到强一致，但每个应用都可以根据自身的业务特点，采用适当的方式来使系统达到最终一致性（Eventual consistency）
 
 ## 云原生
+
 [CNCF 全景图](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
+
