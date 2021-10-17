@@ -9,7 +9,7 @@
 
 ## Concepts
 
-[Storage & Database](storage/Storage.md) [Quantum](Quantum.md)  [Network](Network.md) [Math](Math.md) [Model](Model.md) [Distributed Computing](DistributedComputing.md) [Graph](Graph.md) [Container](Container.md) [Security & Authentication](security(Auth).md)
+[Storage & Database](storage/Storage.md) [Quantum](Quantum.md)  [Network](Network.md) [Math](Math.md) [Model](Model.md) [Distributed Computing](DistributedComputing.md) [Container](Container.md) [Security & Authentication](security(Auth).md)
 
 ## Coding
 
