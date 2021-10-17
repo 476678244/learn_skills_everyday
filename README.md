@@ -5,11 +5,7 @@
 
 ## Big Data
 
-[Hadoop](Hadoop.md)
-
-[Spark](Spark.md)
-
-[Flink](Flink.md)
+[Hadoop](Hadoop.md) [Spark](Spark.md) [Flink](Flink.md)
 
 ## Concepts
 
