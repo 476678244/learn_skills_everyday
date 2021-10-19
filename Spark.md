@@ -36,6 +36,7 @@
 [Spark 之 故障排除（二） ](https://juejin.cn/post/6972853997812056100)
 
 ## Performance Tuning
+
 [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 
 [Spark性能优化指南——高级篇](https://tech.meituan.com/2016/05/12/spark-tuning-pro.html)
@@ -44,6 +45,8 @@
 
 [Spark 3.0 中七个必须知道的 SQL 性能优化](http://www.cxyzjd.com/article/w397090770/107241259)
 
+[Caching Vs Checkpointing](http://www.lifeisafile.com/Apache-Spark-Caching-Vs-Checkpointing/)
+>checkpointing is a sort of reuse of RDD partitions when failures occur during job execution
 
 ## Spark 源码
 
