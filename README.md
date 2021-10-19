@@ -9,7 +9,7 @@
 
 ## Concepts
 
-[Storage & Database](storage/Storage.md) | [Quantum](Quantum.md) | [Network](Network.md) | [Math](Math.md) | [Distributed Computing](DistributedComputing.md) [Container](Container.md)
+[Storage & Database](storage/Storage.md) | [Quantum](Quantum.md) | [Network](Network.md) | [Math](Math.md) | [Distributed Computing](DistributedComputing.md)
 
 ## Coding
 
