@@ -9,3 +9,9 @@
 
 [数学小魔术](https://www.zhihu.com/question/33645891/answer/192604856)
 >任何人都可以按照我公布的方法加密一个数，但是只有我才知道怎么把所得的密文变回去。
+
+# Security
+
+[用户认证问题](https://qiankunli.github.io/2016/08/25/security.html)
+
+[基于token的多平台身份认证架构设计](https://www.cnblogs.com/beer/p/6029861.html)
