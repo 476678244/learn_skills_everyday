@@ -29,21 +29,8 @@
 [CAS和AQS](https://blog.csdn.net/u010862794/article/details/72892300)
 >CAS(Compare And Swap)，即比较并交换。是解决多线程并行情况下使用锁造成性能损耗的一种机制，CAS操作包含三个操作数——内存位置（V）、预期原值（A）和新值(B)。如果内存位置的值与预期原值相匹配，那么处理器会自动将该位置值更新为新值。否则，处理器不做任何操作。无论哪种情况，它都会在CAS指令之前返回该位置的值。CAS有效地说明了“我认为位置V应该包含值A；如果包含该值，则将B放到这个位置；否则，不要更改该位置，只告诉我这个位置现在的值即可。
 
-![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/5/3/163260cff7cb847c~tplv-t2oaga2asx-watermark.image)
+![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/5/3/163260cff7cb847c~tplv-t2oaga2asx-watermark.image=250x)
 
 [可重入性，公平锁与非公平锁](https://blog.csdn.net/weixin_33969116/article/details/87948635?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 - 公平锁每次获取到锁为同步队列中的第一个节点，保证请求资源时间上的绝对顺序，而非公平锁有可能刚释放锁的线程下次继续获取该锁，则有可能导致其他线程永远无法获取到锁，造成“饥饿”现象。
 - 公平锁为了保证时间上的绝对顺序，需要频繁的上下文切换，而非公平锁会降低一定的上下文切换，降低性能开销。因此，ReentrantLock默认选择的是非公平锁，则是为了减少一部分上下文切换，保证了系统更大的吞吐量。
-
-## 聊聊并发系列
-- [聊聊并发（一）深入分析Volatile的实现原理](http://ifeve.com/?p=1)
-- [聊聊并发（二）Java SE1.6中的Synchronized](http://ifeve.com/?p=21)
-- [聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
-- [聊聊并发（四）深入分析ConcurrentHashMap](http://ifeve.com/?p=269)
-- [聊聊并发（五）原子操作的实现原理](http://ifeve.com/atomic-operation/)
-- [聊聊并发（六）ConcurrentLinkedQueue的实现原理
-    ](http://ifeve.com/concurrentlinkedqueue/)
-- [聊聊并发（七）Java中的阻塞队列](http://ifeve.com/java-blocking-queue/)
-- [聊聊并发（八）Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
-- [聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
-- [聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
