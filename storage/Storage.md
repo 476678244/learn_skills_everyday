@@ -22,5 +22,13 @@
 
 [数据库基础](DB_fundamental.md)
 
+## No Sql
+
 [MongoDB](MongoDB.md)
 
+[图数据库以及简单入门](https://blog.csdn.net/xlgen157387/article/details/79085901)
+图具有如下特征：
+1. 包含节点和边；
+2. 节点上有属性（键值对）；
+3. 边有名字和方向，并总是有一个开始节点和一个结束节点；
+4. 边也可以有属性。
