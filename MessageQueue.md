@@ -19,6 +19,9 @@
 [重磅开源 KSQL：用于 Apache Kafka 的流数据 SQL 引擎](https://www.infoq.cn/article/2017/08/ksql-open-source-apache-kafka)
 
 ## Pulsa
+
+[Apache BookKeeper 简介](https://segmentfault.com/a/1190000023086314)
+
 [Apache Pulsar简介](https://www.cnblogs.com/hzmark/p/pulsar.html)
 
 [我为什么放弃Kafka，选择Pulsar？](https://www.modb.pro/db/44555)
