@@ -1,3 +1,5 @@
+[大数据技术栈](https://github.com/heibaiying/BigData-Notes/blob/master/notes/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E6%A0%88%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.md)
+
 ## 入门
 
 [What is the difference between HUE, YARN and OOZIE](https://stackoverflow.com/questions/34934606/what-is-the-difference-between-hue-yarn-and-oozie)
