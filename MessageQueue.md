@@ -32,3 +32,7 @@
 >Apache Pulsar 还提供了一组兼容 Kafka 的 API，用户可以通过简单地更新依赖关系并将客户端指向 Pulsar 集群来迁移现有的 Kafka 应用程序，这样现有的 Kafka 应用程序可以立即与 Apache Pulsar 一起使用，无需更改任何代码。
 
 [重新思考流计算时代的分布式存储](http://storage.it168.com/a2018/1224/5134/000005134474.shtml)
+
+## Books
+
+[Kafka权威指南](https://book.douban.com/subject/27665114/)
