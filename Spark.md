@@ -48,9 +48,12 @@
 [Caching Vs Checkpointing](http://www.lifeisafile.com/Apache-Spark-Caching-Vs-Checkpointing/)
 >checkpointing is a sort of reuse of RDD partitions when failures occur during job execution
 
-## Spark 源码
+## 理解
 
 [Spark源码解析](https://juejin.cn/post/6968987830991192100)
+
+[Spark-Listener](https://blog.csdn.net/asd491310/article/details/89210932)
+>Spark-Core内部的事件框架实现了基于事件的异步化编程模式。它的最大好处是可以提升应用程序对物理资源的充分利用，能最大限度的压榨物理资源，提升应用程序的处理效率。缺点比较明显，降低了应用程序的可读性。
 
 ## Books
 [Spark海量数据处理：技术详解与平台实战](https://weread.qq.com/web/reader/483326b071a52591483e940kc81322c012c81e728d9d180)
