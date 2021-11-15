@@ -15,6 +15,9 @@
 
 # Security
 
+[HTTPS 是如何保护你的安全的](https://sspai.com/post/68040)
+>对于支持 HTTPS 的网站，大部分都对 HTTP 进行了跳转。举例来说，当你访问少数派网站时，如果直接在浏览器中输入 sspai.com 就敲下回车键，那么浏览器会自动跳转到 http://sspai.com 而不是 HTTPS 站点。而少数派网站在收到 HTTP 请求后，会告诉你：我改地址了，请使用 HTTPS 访问。
+
 [用户认证问题](https://qiankunli.github.io/2016/08/25/security.html)
 
 [基于token的多平台身份认证架构设计](https://www.cnblogs.com/beer/p/6029861.html)
