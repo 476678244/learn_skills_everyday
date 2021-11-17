@@ -13,6 +13,9 @@
 
 [Kubernetes介绍篇：是什么? 为什么要用它？](https://my.oschina.net/xcbeyond/blog/5048401)
 
+[面向 Kubernetes 编程： Kubernetes 是下一代操作系统](https://github.com/answer1991/articles/blob/master/Kubernetes-is-the-next-generation-os.md)
+>在未来不久的某一天，也许云厂商只卖 Kubernetes “虚拟机”了：阿里云不单独卖 ecs 了，亚马逊AWS，微软云，Google 云等各种云厂商都不卖 Linux 虚拟机了。如果你想买单机版的 Linux 虚拟机，他们都会一脸惊讶的问你，你买那么底层的、功能那么薄弱的计算机干什么？就像你现在从云厂商那里买不到一个还没有安装 Linux 的虚拟机一样。以后，云厂商交付的 “虚拟机” 必定是 “集群级别的虚拟机” ，而 “集群级别的虚拟机” 的操作系统就是 Kubernetes。
+
 [带你全景俯瞰云原生与 kubernetes](https://zhuanlan.zhihu.com/p/382608092)
 
 ![](https://img-blog.csdnimg.cn/20201026154555648.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hjYmV5b25k,size_16,color_FFFFFF,t_70#pic_center)
