@@ -23,6 +23,9 @@
 
 [一文了解 Apache Spark 3.0 动态分区裁剪（Dynamic Partition Pruning）](https://blog.csdn.net/wypblog/article/details/102908685)
 
+[认识 Delta Lake](https://zhuanlan.zhihu.com/p/87744720)
+>Parquet文件 + Meta 文件 + 一组操作的API = Delta Lake.
+
 ## 用法
 
 [Spark Launcher Java API 提交 Spark 算法](https://xie.infoq.cn/article/3d84053a4e17c468f0b546ef5)
