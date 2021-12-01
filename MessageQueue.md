@@ -4,7 +4,7 @@
 
 ## Kafka
 
-[女朋友看了也懂的Kafka（上篇）](https://www.cnblogs.com/liangzilx/p/14855278.html)
+女朋友看了也懂的Kafka[（上篇）](https://www.cnblogs.com/liangzilx/p/14855278.html)[（下篇）](https://www.cnblogs.com/liangzilx/p/14868874.html)
 
 [Java工程师的进阶之路 Kafka篇（一）](https://juejin.cn/post/6953903023454158879)
 
