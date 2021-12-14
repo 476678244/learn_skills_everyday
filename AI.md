@@ -12,5 +12,8 @@
 
 [深入学习卷积神经网络中卷积层和池化层的意义](https://www.cnblogs.com/wj-1314/p/9593364.html)
 
+[一文搞懂RNN（循环神经网络）基础篇](https://zhuanlan.zhihu.com/p/30844905)
+>循环神经网络的隐藏层的值s不仅仅取决于当前这次的输入x，还取决于上一次隐藏层的值s。权重矩阵 W就是隐藏层上一次的值作为这一次的输入的权重。
+
 ## 应用
 [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
