@@ -58,5 +58,8 @@
 [Spark-Listener](https://blog.csdn.net/asd491310/article/details/89210932)
 >Spark-Core内部的事件框架实现了基于事件的异步化编程模式。它的最大好处是可以提升应用程序对物理资源的充分利用，能最大限度的压榨物理资源，提升应用程序的处理效率。缺点比较明显，降低了应用程序的可读性。
 
+[Broadcast](https://blog.csdn.net/rlnlo2pnefx9c/article/details/120245372)
+>Spark 设计了两种 broadcast 的方式，传统存在单点瓶颈问题的 HttpBroadcast，和类似 BT 方式的 TorrentBroadcast。HttpBroadcast 使用传统的 client-server 形式的 HttpServer 来传递真正的 data，而 TorrentBroadcast 使用 blockManager 自带的 NIO 通信方式来传递 data。TorrentBroadcast 存在的问题是慢启动和占内存，慢启动指的是刚开始 data 只在 driver 上有，要等 executors fetch 很多轮 data block 后，data server 才会变得可观，后面的 fetch 速度才会变快。
+
 ## Books
 [Spark海量数据处理：技术详解与平台实战](https://weread.qq.com/web/reader/483326b071a52591483e940kc81322c012c81e728d9d180)
