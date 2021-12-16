@@ -3,8 +3,6 @@
 [大数据学习路线](https://github.com/heibaiying/BigData-Notes/blob/master/notes/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 >这里说明一下，如果你的时间有限，不一定要学完 Scala 才去学习大数据框架。Scala 确实足够的精简和灵活，但其在语言复杂度上略大于 Java，例如隐式转换和隐式参数等概念在初次涉及时会比较难以理解，所以你可以在了解 Spark 后再去学习 Scala，因为类似隐式转换等概念在 Spark 源码中有大量的运用。
 
-[大数据技术栈](https://github.com/heibaiying/BigData-Notes/blob/master/notes/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E6%A0%88%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.md)
-
 [Snowflake 如日中天是否代表 Hadoop 已死？大数据体系到底是什么？](https://zhuanlan.zhihu.com/p/396165293)
 >随各种资源的解耦（例如，存储计算分离），调度算法可以在单一维度做更深度的优化，AI优化是关键方向（实际上，很多年前Google Borg就已经采用蒙特卡洛Simulation做新任务资源需求的预测了）
 
