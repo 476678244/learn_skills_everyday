@@ -1,6 +1,6 @@
 # learn_skills_everyday
 - 只存链接，不留内容
-- 都是我曾经读过的简单易懂的文章
+- 曾经读过的简单易懂的文章
 - [RSS](https://github.com/476678244/learn_skills_everyday/commits/main.atom)
 
 ## Big Data
