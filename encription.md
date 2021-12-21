@@ -21,3 +21,8 @@
 [用户认证问题](https://qiankunli.github.io/2016/08/25/security.html)
 
 [基于token的多平台身份认证架构设计](https://www.cnblogs.com/beer/p/6029861.html)
+
+## Block Chain
+
+[区块链入门](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+>区块链的主要作用是储存信息。任何需要保存的信息，都可以写入区块链，也可以从里面读取，所以它是数据库。
