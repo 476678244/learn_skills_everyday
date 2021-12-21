@@ -1,7 +1,3 @@
-## Git
-
-[使用 SSH 连接到 GitHub](https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh)
-
 ## Encription
 
 [非对称加密概述](https://blog.csdn.net/u011583927/article/details/81272265)
