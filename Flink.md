@@ -1,4 +1,4 @@
-## 入门
+## 了解
 
 [入门Flink](https://zhuanlan.zhihu.com/p/85086072)
 >计算状态是Flink的一等公民，Flink提供了许多特性来处理状态。
@@ -6,6 +6,9 @@
 [不一样的Flink入门教程](https://segmentfault.com/a/1190000038292061)
 >Flink本身就给我们提供了”存储“的功能，而我们每次执行是可以依赖Flink的”存储”的，所以它是有状态的。
 
+## 入门
+
 [Flink从入门到入土](https://www.cnblogs.com/javazhiyin/p/13597319.html)
 
-[Apache Flink零基础入门到进阶](https://www.infoq.cn/theme/28)
+[flink的一些学习材料，将在github上持续更新](https://github.com/pierre94/flink-notes)
+
