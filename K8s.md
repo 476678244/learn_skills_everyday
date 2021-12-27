@@ -18,11 +18,13 @@
 
 [带你全景俯瞰云原生与 kubernetes](https://zhuanlan.zhihu.com/p/382608092)
 
+[Borg与K8s](https://www.cnblogs.com/linuxprobe/p/5658749.html)
+>那么对于我们来说，比较详细一点，就是说在我们软件开发当中碰到的情况是这样的。从我们的软件设计到开发到测试、生产都经过非常多，非常反复的过程。同时在大部分的集群系统当中，我们也非常难以调度它。那么我觉得对于我们来说，就是后面要解决几个方面的问题。我觉得这是我们一个大的方向。我们以后的产品是不是可以减少语言、程序、框架不同带来的复杂性，能不能把流程进行简化，把语言进行简化，把网络和服务依赖进行简化，这是我提的另一个问题。
+
+
 ![](https://img-blog.csdnimg.cn/20201026154555648.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hjYmV5b25k,size_16,color_FFFFFF,t_70#pic_center)
 
 ![Kubernetes 的发展历程如下图所示](http://matt33.com/images/k8s/k8s-history.png)
-
-
 
 ## 论文
 
