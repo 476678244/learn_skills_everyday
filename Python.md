@@ -1,7 +1,7 @@
 ## Zen
 [Python 之禅](https://linux.cn/article-13127-1.html)
 
-1. [观胜于丑陋](https://linux.cn/article-11718-1.html)（Beautiful is better than ugly.）
+1. [美观胜于丑陋](https://linux.cn/article-11718-1.html)（Beautiful is better than ugly.）
 2. [明确胜于隐晦](https://linux.cn/article-11718-1.html)（Explicit is better than implicit.）
 3. [简单胜过复杂](https://linux.cn/article-11999-1.html)（Simple is better than complex.）
 4. [复杂胜过错综复杂](https://linux.cn/article-11999-1.html)（Complex is better than complicated.）
