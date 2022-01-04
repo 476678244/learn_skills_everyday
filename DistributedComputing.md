@@ -12,6 +12,8 @@
 
 ## 分布式事务
 
+[漫画分布式锁](https://mp.weixin.qq.com/s/8fdBKAyHZrfHmSajXT_dnA)
+
 [事务及其ACID特性](https://jiang-hao.com/articles/2019/backend-transactions-acid.html)
 
 [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
