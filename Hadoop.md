@@ -17,6 +17,8 @@
 
 [Hadoop分布式文件系统——HDFS](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-HDFS.md)
 
+[HDFS体系结构](https://www.cnblogs.com/liangzilx/p/14851367.html)
+>没有NameNode，整个HDFS将无法使用。事实上，如果运行NameNode服务的及其损坏，文件系统上所有的文件将会丢失，因为我们不知道如何根据DataNode的块重建文件
 
 ## Hive
 
