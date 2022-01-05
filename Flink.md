@@ -1,4 +1,4 @@
-## 了解
+## 认识Flink
 
 [入门Flink](https://zhuanlan.zhihu.com/p/85086072)
 >计算状态是Flink的一等公民，Flink提供了许多特性来处理状态。
@@ -12,7 +12,7 @@
 
 [flink的一些学习材料，将在github上持续更新](https://github.com/pierre94/flink-notes)
 
-## 图书
+## Books
 
 [Flink基础教程](https://book.douban.com/subject/30283622/)
 >[Download](https://github.com/pierre94/flink-notes/blob/master/books/Flink%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf
