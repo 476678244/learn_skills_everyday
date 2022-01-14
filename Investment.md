@@ -12,3 +12,5 @@
 ## 美股研究社
 
 [机构的成本都是多少？八大科技巨头将何去何从？筹码分布已告诉了我们答案](https://www.youtube.com/watch?v=UWX7mdsThrM)
+
+[投资启示录 | 股价波动的周期性思维，TSLA/NVDA/AMD的波动规律，超级上升浪该如何抓住？](https://www.youtube.com/watch?v=UdW5RbJAIIQ)
