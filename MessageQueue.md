@@ -10,6 +10,9 @@
 
 [一文快速了解Kafka](https://jishuin.proginn.com/p/763bfbd57884)
 
+[Kafka基本架构和概述](https://donggeitnote.com/2021/11/09/kafka-architecture/)
+>多个consumer还可以组成一个consumer group，他们可以共同订阅一个topics的消息，但是一个partition只能被consumer group中的一个consumer来进行处理，当这个consumer group中的某个consumer出现了问题之后，可以让consumer group中别的consumer来继续处理出问题的consumer所对应的partition
+
 [Visualizing Kafka](https://timothystepro.medium.com/visualizing-kafka-20bc384803e7)
 
 [Kafka 会不会丢消息？ ](https://juejin.cn/post/6975066050287288327)
