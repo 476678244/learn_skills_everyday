@@ -33,5 +33,8 @@
 
 [garystafford/pyspark-setup-demo](https://github.com/garystafford/pyspark-setup-demo#jupyter-notebook-pyspark-demo)
 
-## PySpark
+## 第三方库
+
 [如何从 Pandas 迁移到 Spark？这 8 个问答解决你所有疑问](https://www.infoq.cn/article/iKL4HjTzfvdrFQmbDmLx)
+
+[使用SQLAlchemy](https://www.liaoxuefeng.com/wiki/1016959663602400/1017803857459008)
