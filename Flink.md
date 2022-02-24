@@ -15,6 +15,8 @@
 [轻量级异步屏障快照（ABS）算法](https://www.jianshu.com/p/3093f6d92750)
 >时间是无法静止的（即数据总是在流动的），并且快照不能stop-the-world，否则会造成延迟和数据堆积，降低吞吐量。
 
+[官方入门视频教程](https://www.youtube.com/watch?v=bnLGJb19bm4&list=PL-Eo8d6DAhICfHjSaNsdkyic3WX0YewHp)
+
 ## Books
 
 [Flink基础教程](https://book.douban.com/subject/30283622/)
