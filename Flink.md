@@ -17,6 +17,11 @@
 
 [官方入门视频教程](https://www.youtube.com/watch?v=bnLGJb19bm4&list=PL-Eo8d6DAhICfHjSaNsdkyic3WX0YewHp)
 
+## 理解
+
+[Flink的Watermark机制](https://www.cnblogs.com/rossiXYZ/p/12286407.html)
+>通常最好保持接收到的最大时间戳，并创建具有最大预期延迟的水位线，而不是从当前系统时间减去
+
 ## Books
 
 [Flink基础教程](https://book.douban.com/subject/30283622/)
