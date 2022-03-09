@@ -18,3 +18,6 @@
 
 [比特币的本质](https://eurychen.me/post/the-essence-of-bitcoin/)
 >我们可以这样理解：「比特币是一种特殊的金属，其本身就有质量转移的能力，而对于扮演货币角色的金属，质量的大小就是价值的多少，因此质量转移能力就相当于支付能力」。
+
+[flomo真香！投资经理如何用它深度思考，培养贝叶斯大脑？](https://www.bilibili.com/video/BV1YR4y1L7iR?from=search&seid=2900819451794695230&spm_id_from=333.337.0.0)
+>训练自己的贝叶斯大脑
