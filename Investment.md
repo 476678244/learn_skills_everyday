@@ -12,6 +12,7 @@
 [财富常识](https://www.bmpi.dev/self/how-to-get-rich/)
 >财富需要杠杆。
 
+[技术创新阶段](https://www.youtube.com/watch?v=l6wzydHQQ_M&t=518s&ab_channel=%E7%94%B5%E4%B8%B8%E7%A7%91%E6%8A%80AK)
 
 ## 美股研究社
 
