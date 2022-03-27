@@ -28,6 +28,9 @@
 
 [面向对象](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/09.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BF%9B%E9%98%B6.md)
 
+[如何学Python？](https://www.kawabangga.com/how-to-learn-python)
+>这里有一篇 Transforming Code into Beautiful, Idiomatic Python 看一下漂亮、Pythonic 的代码是怎么写的吧。
+
 ## Jupyter
 [Getting Started with Data Analytics using Jupyter Notebooks, PySpark, and Docker](https://towardsdatascience.com/getting-started-with-data-analytics-using-jupyter-notebooks-pyspark-and-docker-57c1aaab2408)
 
