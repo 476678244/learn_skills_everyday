@@ -25,3 +25,7 @@
 
 [CNCF 全景图](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
 
+## Zookeeper
+
+[zookeeper的实际运用场景](https://www.cnblogs.com/sharpxiajun/archive/2013/06/02/3113923.html)
+>zookeeper很利于分布式系统开发，它能让分布式系统更加健壮和高效。
