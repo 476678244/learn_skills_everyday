@@ -21,3 +21,5 @@
 [投资启示录 | 股价波动的周期性思维，TSLA/NVDA/AMD的波动规律，超级上升浪该如何抓住？](https://www.youtube.com/watch?v=UdW5RbJAIIQ)
 
 [实操经验分享 | 神奇九转到底是什么？上升和下降趋势中的不同运用，波段战法的一个很好指标](https://www.youtube.com/watch?v=LSEHv43RLsk&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
+
+[股债动态平衡带来了什么？](https://www.youtube.com/watch?v=NCV19kgR5fU&t=292s&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
