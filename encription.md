@@ -22,3 +22,8 @@
 
 [区块链入门](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
 >区块链的主要作用是储存信息。任何需要保存的信息，都可以写入区块链，也可以从里面读取，所以它是数据库。
+
+## BTC
+
+[比特币入门](https://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html)
+>所有的交易数据都会传送到矿工那里。矿工负责把这些交易写入区块链。
