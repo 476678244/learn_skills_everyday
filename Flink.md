@@ -8,6 +8,9 @@
 
 ## 入门
 
+[Streaming 101](https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/)
+>Event time vs. processing time
+
 [Flink从入门到入土](https://www.cnblogs.com/javazhiyin/p/13597319.html)
 
 [flink的一些学习材料，将在github上持续更新](https://github.com/pierre94/flink-notes)
@@ -16,6 +19,8 @@
 >时间是无法静止的（即数据总是在流动的），并且快照不能stop-the-world，否则会造成延迟和数据堆积，降低吞吐量。
 
 [官方入门视频教程](https://www.youtube.com/watch?v=bnLGJb19bm4&list=PL-Eo8d6DAhICfHjSaNsdkyic3WX0YewHp)
+
+
 
 ## 理解
 
