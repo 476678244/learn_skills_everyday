@@ -21,6 +21,9 @@
 [Java异步编程指南](http://javakk.com/225.html)
 >在我们做rpc远程调用，redis，数据库访问等比较耗时的网络请求时经常要面对这样的问题，这种业务场景我们可以引入异步的编程思想，即主流程不需要阻塞等待接口返回数据，而是继续往下执行，当真正需要这个接口返回结果时再通过回调或阻塞的方式获取，此时我们的主流程和异步任务是并行执行的。
 
+[一文带你彻底了解Java异步编程](http://javakk.com/563.html)
+>以同步的方式编码，达到异步的效果与性能,兼顾可维护性与可伸缩性。
+
 ## Sbt plugins
 [sbt-scoverage](https://github.com/scoverage/sbt-scoverage)
 >[Code Coverage for Scala using scoverage and sbt](https://www.youtube.com/watch?v=oz_HcHvbp7Y)
