@@ -21,3 +21,6 @@
 
 [flomo真香！投资经理如何用它深度思考，培养贝叶斯大脑？](https://www.bilibili.com/video/BV1YR4y1L7iR?from=search&seid=2900819451794695230&spm_id_from=333.337.0.0)
 >训练自己的贝叶斯大脑
+
+[满足的多世界理论](https://youzhiyouxing.cn/materials/1210?continueFlag=d34bf4165a1fe71cb89f1f65ba4cd6fe)
+>你必须自己调节关于满足的定义，而不是让外界强迫你调整。智慧存在于自我调节之中，而悲剧存在于被迫调整之中。
