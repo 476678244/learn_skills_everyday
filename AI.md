@@ -17,3 +17,6 @@
 
 ## 应用
 [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
+
+[AI 作曲 （完整思路）](https://eurychen.me/post/music/ai-compose-music/)
+>美不能被量化，但却有迹可循。AI 三脚猫功夫般的作曲，即是一种证明。
