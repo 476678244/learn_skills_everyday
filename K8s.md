@@ -6,6 +6,9 @@
 [Docker与k8s的恩怨情仇（二）—用最简单的技术实现“容器”](https://www.cnblogs.com/powertoolsteam/p/14922152.html)
 >只有Linux中运行的容器是通过对进程进行限制模拟出来的结果，Windows和Mac下的容器，都是通过Docker Desktop等容器软件，操作虚拟机模拟出来的“真实”的虚拟容器。
 
+[Podman](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651056444&idx=1&sn=5bae19652a7cfbb41a9b97d52e7e14e1&chksm=bdbe116f8ac9987911ad0c3930224aa8e8cbb450f13f920914ba981f886f18be240930bdfc4e#rd)
+>podman 命令行工具与 docker 类似，比如构建镜像、启停容器等，甚至可以通过 alias docker=podman 可以进行替换，即便使用了 podman，仍然可以使用 docker.io 作为镜像仓库。
+
 ## 入门K8s
 >几年来，随着以 Docker 为代表的容器技术的出现，终结了之前 DevOps 中交付和部署环节因环境、配置及程序本身的不同而造成的动辄几种甚至几十种部署配置的困境，将它们统一在容器镜像上。但 Docker 更适用于管理单个容器，一旦开始使用越来越多的容器封装和运行应用程序，必将会导致其管理和编排变得越来越困难。最终，用户不得不对容器实施分组，以便跨所有容器提供网络、安全、监控等服务。于是，以 Kubernetes 为代表的容器编排系统应运而生。
 [图解 K8s 核心概念和术语](https://xie.infoq.cn/article/09cbb998e6e24953c9542d7c3)
