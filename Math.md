@@ -20,3 +20,5 @@
 [TSP(旅行者问题)——动态规划](https://blog.csdn.net/joekwok/article/details/4749713)
 
 ![image](https://p-blog.csdn.net/images/p_blog_csdn_net/gfaiswl/612517/o_image_thumb_3.gif)
+
+[拜占庭将军问题](https://www.bilibili.com/video/BV1yJ411v7xV?spm_id_from=333.337.search-card.all.click)
