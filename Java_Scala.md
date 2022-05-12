@@ -35,6 +35,8 @@
 [CAS和AQS](https://blog.csdn.net/u010862794/article/details/72892300)
 >CAS(Compare And Swap)，即比较并交换。是解决多线程并行情况下使用锁造成性能损耗的一种机制，CAS操作包含三个操作数——内存位置（V）、预期原值（A）和新值(B)。如果内存位置的值与预期原值相匹配，那么处理器会自动将该位置值更新为新值。否则，处理器不做任何操作。无论哪种情况，它都会在CAS指令之前返回该位置的值。CAS有效地说明了“我认为位置V应该包含值A；如果包含该值，则将B放到这个位置；否则，不要更改该位置，只告诉我这个位置现在的值即可。
 
+[CAS视频讲解](https://www.bilibili.com/video/BV1ff4y1q7we?spm_id_from=333.337.search-card.all.click)
+
 <img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/5/3/163260cff7cb847c~tplv-t2oaga2asx-watermark.image" width="400"/>
 
 [可重入性，公平锁与非公平锁](https://blog.csdn.net/weixin_33969116/article/details/87948635?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
