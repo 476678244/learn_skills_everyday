@@ -6,6 +6,9 @@
 [Docker与k8s的恩怨情仇（二）—用最简单的技术实现“容器”](https://www.cnblogs.com/powertoolsteam/p/14922152.html)
 >只有Linux中运行的容器是通过对进程进行限制模拟出来的结果，Windows和Mac下的容器，都是通过Docker Desktop等容器软件，操作虚拟机模拟出来的“真实”的虚拟容器。
 
+[Docker与k8s的恩怨情仇（三）—后浪Docker来势汹汹](https://www.cnblogs.com/powertoolsteam/p/14954314.html)
+>Docker的“层”解释了为什么Docker镜像只在第一次下载时那么慢，而之后的镜像都很快，并且明明每份镜像看起来都几百兆，但是最终机器上的硬盘缺没有占用那么多的原因。更小的磁盘空间、更快的加载速度，让Docker的复用性有了非常显著的提升。
+
 [Podman](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651056444&idx=1&sn=5bae19652a7cfbb41a9b97d52e7e14e1&chksm=bdbe116f8ac9987911ad0c3930224aa8e8cbb450f13f920914ba981f886f18be240930bdfc4e#rd)
 >podman 命令行工具与 docker 类似，比如构建镜像、启停容器等，甚至可以通过 alias docker=podman 可以进行替换，即便使用了 podman，仍然可以使用 docker.io 作为镜像仓库。
 
