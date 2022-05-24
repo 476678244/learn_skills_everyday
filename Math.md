@@ -1,4 +1,6 @@
 ## 概念
+[第一次数学危机](https://blog.sciencenet.cn/blog-677221-1318728.html)
+>第一次数学危机的解决可说是“解铃还需系铃人”。也可以说，无理数的发现，当年是毕氏学派的最大灾难，其实也是毕氏学派的最大成就。
 
 [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 
