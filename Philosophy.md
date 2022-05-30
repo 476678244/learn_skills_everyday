@@ -24,3 +24,6 @@
 
 [满足的多世界理论](https://youzhiyouxing.cn/materials/1210?continueFlag=d34bf4165a1fe71cb89f1f65ba4cd6fe)
 >你必须自己调节关于满足的定义，而不是让外界强迫你调整。智慧存在于自我调节之中，而悲剧存在于被迫调整之中。
+
+把自己当作资产 [-](https://sspai.com/post/73105) [二](https://sspai.com/post/73236)
+>最好的工作，是终身学习者在自由市场的创造性表达。
