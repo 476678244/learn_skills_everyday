@@ -27,3 +27,5 @@
 
 把自己当作资产 [(一)](https://sspai.com/post/73105) [(二)](https://sspai.com/post/73236)
 >最好的工作，是终身学习者在自由市场的创造性表达。
+
+[朱松纯：从人工智能的角度解读《赤壁赋》兼谈“心”与“理”的平衡](https://www.jiqizhixin.com/articles/2022-01-07-7)
