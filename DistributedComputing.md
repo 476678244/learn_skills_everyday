@@ -21,6 +21,9 @@
 [聊聊分布式事务，再说说解决方案](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
 >我们无法做到强一致，但每个应用都可以根据自身的业务特点，采用适当的方式来使系统达到最终一致性（Eventual consistency）
 
+[说透分布式锁](https://xie.infoq.cn/article/d5d3f794a6f5866a7f4a0d082)
+>本质上 etcd 和 ZooKeeper 对分布式锁的实现是类似的。
+
 ## 云原生
 
 [CNCF 全景图](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
