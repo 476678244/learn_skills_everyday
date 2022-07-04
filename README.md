@@ -24,7 +24,7 @@
 
 ## Tools
 
-[Markdown](Markdown.md) | [Encription](encription.md)
+[Markdown](Markdown.md) | [Encription & BTC](encription.md)
 
 ## Others
 
