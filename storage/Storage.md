@@ -32,3 +32,11 @@
 2. 节点上有属性（键值对）；
 3. 边有名字和方向，并总是有一个开始节点和一个结束节点；
 4. 边也可以有属性。
+
+## OLAP vs. OLTP
+
+[主流OLAP系统对比总结](https://zhuanlan.zhihu.com/p/38767561)
+
+[Kylin 在 eBay 的成长历程与实践](https://www.infoq.cn/article/56vdaS7pwu2iexe4ukv0)
+
+[KYLIN、DRUID、CLICKHOUSE核心技术对比](http://www.jackywoo.cn/kylin-druid-clickhouse-comparing/)
