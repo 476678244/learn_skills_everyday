@@ -16,7 +16,7 @@
 
 ## Framework
 
-[Spring](Spring.md) | [K8s & Docker](K8s.md) | [OLAP](OLAP.md) | [Kafka & Pulsa](MessageQueue.md) | [Recommendation](Recommendation.md)
+[Spring](Spring.md) | [K8s & Docker](K8s.md) | [Kafka & Pulsa](MessageQueue.md) | [Recommendation](Recommendation.md)
 
 ## Industry
 
