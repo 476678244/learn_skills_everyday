@@ -14,6 +14,9 @@
 
 [技术创新阶段](https://www.youtube.com/watch?v=l6wzydHQQ_M&t=518s&ab_channel=%E7%94%B5%E4%B8%B8%E7%A7%91%E6%8A%80AK)
 
+[玩CASHFLOW打造你的财务自由之路](https://www.bmpi.dev/money/play-cashflow-to-build-your-financial-freedom/)
+>投资最重要的是管理好风险，而风险有利率风险、流动性风险、汇率风险、通货膨胀风险、市场风险、政治风险、信用风险、行业风险、法律风险、经营风险等。
+
 ## 美股研究社
 
 [机构的成本都是多少？八大科技巨头将何去何从？筹码分布已告诉了我们答案](https://www.youtube.com/watch?v=UWX7mdsThrM)
