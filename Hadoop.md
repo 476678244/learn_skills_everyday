@@ -13,18 +13,19 @@
 
 [Difference between HUE, YARN and OOZIE](https://stackoverflow.com/questions/34934606/what-is-the-difference-between-hue-yarn-and-oozie)
 
-## HDFS
+## 存储
 
 [Hadoop分布式文件系统——HDFS](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hadoop-HDFS.md)
 
 [HDFS体系结构](https://www.cnblogs.com/liangzilx/p/14851367.html)
 >没有NameNode，整个HDFS将无法使用。事实上，如果运行NameNode服务的及其损坏，文件系统上所有的文件将会丢失，因为我们不知道如何根据DataNode的块重建文件
 
-## Hive
+[HBase](https://zhuanlan.zhihu.com/p/145551967)
+>数据写到HBase的时候都会被记录一个时间戳，这个时间戳被我们当做一个版本。比如说，我们修改或者删除某一条的时候，本质上是往里边新增一条数据，记录的版本加一了而已。
 
 [Hive介绍](https://www.cnblogs.com/sharpxiajun/archive/2013/06/02/3114180.html)
 >hive不支持对某个具体行的操作，hive对数据的操作只支持覆盖原数据和追加数据。Hive也不支持事务和索引。更新、事务和索引都是关系数据库的特征，这些hive都不支持，也不打算支持，原因是hive的设计是海量数据进行处理，全数据的扫描时常态，针对某些具体数据进行操作的效率是很差的，对于更新操作，hive是通过查询将原表的数据进行转化最后存储在新表里，这和传统数据库的更新操作有很大不同。
 
-## Airflow
+## 调度器
 
 [Airflow从零到神](https://space.bilibili.com/370992549/favlist?fid=43276&ftype=collect&ctype=21)
