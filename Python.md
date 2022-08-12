@@ -31,6 +31,9 @@
 [如何学Python？](https://www.kawabangga.com/how-to-learn-python)
 >这里有一篇 Transforming Code into Beautiful, Idiomatic Python 看一下漂亮、Pythonic 的代码是怎么写的吧。
 
+[Python 中的八个“无代码”特性](https://www.infoq.cn/article/Bl0l7uUPRd6d4tm6763F)
+>一种无需编写任何代码即可使用 Python 内置库的方法
+
 ## Jupyter
 [Getting Started with Data Analytics using Jupyter Notebooks, PySpark, and Docker](https://towardsdatascience.com/getting-started-with-data-analytics-using-jupyter-notebooks-pyspark-and-docker-57c1aaab2408)
 
