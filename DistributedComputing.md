@@ -35,3 +35,6 @@
 
 [zookeeper的实际运用场景](https://www.cnblogs.com/sharpxiajun/archive/2013/06/02/3113923.html)
 >zookeeper很利于分布式系统开发，它能让分布式系统更加健壮和高效。
+
+[ZK（ZooKeeper）分布式锁实现](https://xie.infoq.cn/article/a07f6f2e1c88d8a663bab2305)
+>基于 ZooKeeper 的临时顺序节点 ，ZooKeeper 比较适合来实现分布式锁
