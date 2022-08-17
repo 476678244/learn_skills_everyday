@@ -44,3 +44,7 @@
 [如何从 Pandas 迁移到 Spark？这 8 个问答解决你所有疑问](https://www.infoq.cn/article/iKL4HjTzfvdrFQmbDmLx)
 
 [使用SQLAlchemy](https://www.liaoxuefeng.com/wiki/1016959663602400/1017803857459008)
+
+[最推荐使用pip的方式](https://www.dongwm.com/post/you-should-use-python-m-pip/)
+>echo 'alias pip="python -m pip"' >> ~/.aliasrc
+
