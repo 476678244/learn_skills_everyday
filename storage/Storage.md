@@ -22,6 +22,9 @@
 
 [数据库基础](DB_fundamental.md)
 
+[Apache Cassandra 简介](https://www.iteblog.com/archives/2530.html)
+>在希腊神话里，Cassandra 是特洛伊国王 Priam 和 Hecuba 王后的女儿。Cassandra 非常美丽，以至于阿波罗给了她预见未来的能力。但当她拒绝阿波罗的爱慕的时候，遭到他的诅咒。从此，她依然可以精确地预知未来，但是不会有任何人相信她。Cassandra 预知了她的特洛伊城终将覆灭，但却无力阻止这一悲剧。Cassandra 分布式数据库就据此命名。
+
 ## No Sql
 
 [MongoDB](MongoDB.md)
