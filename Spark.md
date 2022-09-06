@@ -53,6 +53,9 @@
 
 ## 理解
 
+[Spark程序的生命周期](https://www.cnblogs.com/zzq6032010/p/15516323.html)
+>客户端将程序包（jar包或代码库）提交到集群管理器的驱动节点（即master节点），此时驱动节点会给Spark驱动器进程申请资源，并将其在某一个节点服务器上启动起来。程序包也发给Spark驱动器。
+
 [Spark源码解析](https://juejin.cn/post/6968987830991192100)
 
 [Spark-Listener](https://blog.csdn.net/asd491310/article/details/89210932)
