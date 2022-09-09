@@ -17,6 +17,9 @@
 [玩CASHFLOW打造你的财务自由之路](https://www.bmpi.dev/money/play-cashflow-to-build-your-financial-freedom/)
 >投资最重要的是管理好风险，而风险有利率风险、流动性风险、汇率风险、通货膨胀风险、市场风险、政治风险、信用风险、行业风险、法律风险、经营风险等。
 
+[不死品种的极限跌幅](https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409641&idx=1&sn=76f39ee89835bed50c1d8c0af753be4a&chksm=8d227386ba55fa90cddea09924ec1bb0f1371a465bc1668d5d6bb58ee2790488b0abc03b0ebd#rd)
+>对于几十年一遇的大熊市，32%绝对不是铁底。从上面观察，20%左右才是真正的超级大铁底。那个地方买入只输时间绝不赔钱。当然我说的是指数类的品种。
+
 ## 美股研究社
 
 [机构的成本都是多少？八大科技巨头将何去何从？筹码分布已告诉了我们答案](https://www.youtube.com/watch?v=UWX7mdsThrM)
