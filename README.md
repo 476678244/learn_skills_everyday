@@ -4,7 +4,7 @@
 
 ## Big Data
 
-[Hadoop](Hadoop.md) | [Spark](Spark.md) | [Flink](Flink.md)
+[Hadoop](Hadoop.md) | [Spark](Spark.md) | [Flink](Flink.md) | [AI & ML](AI.md)
 
 ## Concepts
 
@@ -18,14 +18,10 @@
 
 [Spring](Spring.md) | [K8s & Docker](K8s.md) | [Kafka & Pulsa](MessageQueue.md) | [Recommendation](Recommendation.md)
 
-## Industry
-
-[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md) | [AI & ML](AI.md) | [Best Practice](best_practice.md)
-
 ## Tools
 
 [Markdown](Markdown.md) | [Encription & BTC](encription.md)
 
 ## Others
 
-[Life&Tips](Life.md) | [Philosophy](Philosophy.md) | [投资理财](Investment.md)
+[Life&Tips](Life.md) | [Philosophy](Philosophy.md) | [投资理财](Investment.md) | [代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
