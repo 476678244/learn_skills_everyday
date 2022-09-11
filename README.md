@@ -20,7 +20,7 @@
 
 ## Industry
 
-[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md) | [AI](AI.md) | [Best Practice](best_practice.md)
+[代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md) | [AI & ML](AI.md) | [Best Practice](best_practice.md)
 
 ## Tools
 
