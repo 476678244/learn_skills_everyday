@@ -1,3 +1,8 @@
+## 基础
+
+[基本的 Linux 网络命令](https://linux.cn/article-15013-1.html?utm_source=rss&utm_medium=rss)
+>这些命令将帮助你设置网络，以及解决你在 Linux 系统中可能遇到的各种网络问题。
+
 ## DNS
 
 [什么是 DNS，它是如何工作的？](https://linux.cn/article-12602-1.html)
