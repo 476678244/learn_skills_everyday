@@ -42,3 +42,10 @@
 [可重入性，公平锁与非公平锁](https://blog.csdn.net/weixin_33969116/article/details/87948635?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 - 公平锁每次获取到锁为同步队列中的第一个节点，保证请求资源时间上的绝对顺序，而非公平锁有可能刚释放锁的线程下次继续获取该锁，则有可能导致其他线程永远无法获取到锁，造成“饥饿”现象。
 - 公平锁为了保证时间上的绝对顺序，需要频繁的上下文切换，而非公平锁会降低一定的上下文切换，降低性能开销。因此，ReentrantLock默认选择的是非公平锁，则是为了减少一部分上下文切换，保证了系统更大的吞吐量。
+
+[编程语言是如何实现泛型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
+对静态类型检查的编程语言，实现泛型的方式有很多，如：
+- C++：通过**模版**实现，相比C的宏，模版显然更强大灵活。
+- Java：通过**类型擦除的装箱技术结合虚方法表**实现，虽然类型擦除导致Java的泛型实现不如人意，但这种代价确保了兼容性。
+- Swift：通过**字典传入的方式配合Witness table**的实现，这种巧妙的方式在编译速度与运行时速度之间取得了不错的平衡。
+- Go：通过**字典传入的方式配合GC Shape的蜡印技术**实现，这种方式在编译速度与运行时速度之间取得了不错的平衡。
