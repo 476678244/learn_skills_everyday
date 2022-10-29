@@ -21,6 +21,9 @@
 [一文搞懂RNN（循环神经网络）基础篇](https://zhuanlan.zhihu.com/p/30844905)
 >循环神经网络的隐藏层的值s不仅仅取决于当前这次的输入x，还取决于上一次隐藏层的值s。权重矩阵 W就是隐藏层上一次的值作为这一次的输入的权重。
 
+[过拟合](https://juejin.cn/post/7087483936237944839)
+>Dropout 可以认为是一种模型训练方法，其中每批数据训练时只有一定比例的权重被更新，而其余的权重不被更新
+
 ## 应用
 [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
 
