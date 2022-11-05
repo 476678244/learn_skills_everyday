@@ -13,6 +13,8 @@
 >Although these steps may sound complicated, they are all handled behind the scenes by Pat's user-friendly software. To verify a signature, Pat need only click on it.
 
 # Security
+[Securing your digital life](https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/)
+>Everything counts in multiple accounts
 
 [HTTPS 是如何保护你的安全的](https://sspai.com/post/68040)
 >对于支持 HTTPS 的网站，大部分都对 HTTP 进行了跳转。举例来说，当你访问少数派网站时，如果直接在浏览器中输入 sspai.com 就敲下回车键，那么浏览器会自动跳转到 http://sspai.com 而不是 HTTPS 站点。而少数派网站在收到 HTTP 请求后，会告诉你：我改地址了，请使用 HTTPS 访问。
