@@ -38,3 +38,6 @@
 
 [也谈人生](https://blog.sina.com.cn/s/blog_66dd49810102eler.html)
 >所以说，劳作的人生意义大矣！
+
+[重新理解「好奇心」](https://sspai.com/post/72993)
+>内容没问题，有问题的是内容传递的方式：被动接收。
