@@ -14,6 +14,9 @@
 [Docker与k8s的恩怨情仇（三）—后浪Docker来势汹汹](https://www.cnblogs.com/powertoolsteam/p/14954314.html)
 >Docker的“层”解释了为什么Docker镜像只在第一次下载时那么慢，而之后的镜像都很快，并且明明每份镜像看起来都几百兆，但是最终机器上的硬盘缺没有占用那么多的原因。更小的磁盘空间、更快的加载速度，让Docker的复用性有了非常显著的提升。
 
+[Docker与k8s的恩怨情仇（四）-云原生时代的闭源落幕](https://www.cnblogs.com/powertoolsteam/p/14980851.html)
+>面对Kubernetes社区的崛起和壮大，Docker公司不得不承认自己的豪赌以失败告终，从2017年开始，Docker将Docker项目的容器运行时部分Containerd捐赠给了CNCF社区，并且在当年10月宣布将在自己的Docker企业版中内置Kubernetes项目，这也标志着持续了近两年的容器编排之战落下帷幕。
+
 [Docker Compose](https://www.dongwm.com/post/use-docker-compose/)
 
 [Podman](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651056444&idx=1&sn=5bae19652a7cfbb41a9b97d52e7e14e1&chksm=bdbe116f8ac9987911ad0c3930224aa8e8cbb450f13f920914ba981f886f18be240930bdfc4e#rd)
