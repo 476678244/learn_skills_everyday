@@ -29,3 +29,5 @@
 [实操经验分享 | 神奇九转到底是什么？上升和下降趋势中的不同运用，波段战法的一个很好指标](https://www.youtube.com/watch?v=LSEHv43RLsk&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
 
 [股债动态平衡带来了什么？](https://www.youtube.com/watch?v=NCV19kgR5fU&t=292s&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
+
+[技术分析必须结合基本面](https://www.youtube.com/watch?v=fh63ADL1Jkw&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
