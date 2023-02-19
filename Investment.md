@@ -31,3 +31,5 @@
 [股债动态平衡带来了什么？](https://www.youtube.com/watch?v=NCV19kgR5fU&t=292s&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
 
 [技术分析必须结合基本面](https://www.youtube.com/watch?v=fh63ADL1Jkw&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
+
+[哪些指标才真正体现市场情绪？](https://www.youtube.com/watch?v=WQx79gzOmnM&ab_channel=%E7%BE%8E%E8%82%A1%E7%A0%94%E7%A9%B6%E7%A4%BE)
