@@ -37,3 +37,7 @@
 ## Rain
 
 [6個股市見底訊號](https://www.youtube.com/watch?v=sCWRSSzvz00&ab_channel=RainIsHere)
+
+## 孟岩
+[投资锦囊](https://sspai.com/post/74929)
+>向内之旅，此道不孤。我们，愿和你一起自由生长。
