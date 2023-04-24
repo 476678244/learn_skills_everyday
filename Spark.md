@@ -67,5 +67,8 @@
 [统一内存管理](https://mp.weixin.qq.com/s?__biz=MzIwNDkwMjc1OQ==&mid=2247485817&idx=1&sn=acbb75d1b97d3ea40f4804f1c7367324&chksm=97385171a04fd867fca863d8018120e872a1788a489d1b49bd9063cff700f6e229850d869ca4#rd)
 >统一内存管理对比静态内存管理最重要的改进是支持执行内存和存储内存之间的动态抢占，从而提升了内存使用率；同时，内存管理器还可以统一管理堆内内存和堆外内存，当配置了spark.memory.offHeap.enabled=true和spark.memory.offHeap.size参数时则可以使用堆外内存。
 
+[Spark内存管理机制](https://juejin.cn/post/7051037707568414727)
+>Spark在2.x之后，摒弃了之前版本的Tachyon，采用Java中常见的基于JDK Unsafe API来对堆外内存进行管理。此模式不在JVM中申请内存，而是直接操作系统内存，减少了JVM中内存空间切换的开销，降低了GC回收占用的消耗，实现对内存的精确管控。
+
 ## Books
 [Spark海量数据处理：技术详解与平台实战](https://weread.qq.com/web/reader/483326b071a52591483e940kc81322c012c81e728d9d180)
