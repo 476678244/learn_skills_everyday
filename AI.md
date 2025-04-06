@@ -3,6 +3,7 @@
 [最好的致敬是学习：DeepSeek-R1 赏析](https://mp.weixin.qq.com/s/_XGBipbywCOtcKu13QDW5Q)
 
 ## 入门
+[CPU vs. GPU](https://www.infoq.cn/article/UU1l5ayRqQBNyKZtLFQo?utm_source=rss&utm_medium=article)
 
 [机器学习知识体系](https://www.zhihu.com/question/266291909/answer/2543083234)
 
