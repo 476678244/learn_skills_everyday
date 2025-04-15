@@ -1,3 +1,5 @@
+[代码重构：面向单元测试](https://xie.infoq.cn/article/5c83e55dbac27f793a5425f1f)
+
 [有关单元测试的 5 个建议](https://www.zlovezl.cn/articles/5-tips-on-unit-testing/)
 
 TDD 的大致工作流如下：
