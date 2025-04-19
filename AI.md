@@ -1,7 +1,9 @@
 ## LLM
 
 [本地大模型之路（一）：大模型的是什么、为什么以及怎么选](https://sspai.com/post/94875)
+
 [本地大模型之路（二）：了解模型能力与性能需求，让硬件选购恰到好处](https://sspai.com/post/95262)
+
 [本地大模型之路（三）：推理引擎和 LLM 应用](https://sspai.com/post/96911)
 
 [最好的致敬是学习：DeepSeek-R1 赏析](https://mp.weixin.qq.com/s/_XGBipbywCOtcKu13QDW5Q)
