@@ -2,9 +2,10 @@
 - 曾经读过的有价值又简单易懂的文章
 - [RSS](https://github.com/476678244/learn_skills_everyday/commits/main.atom)
 
-## Big Data
+## Data Science
+[AI & ML](AI.md)
 
-[Hadoop](Hadoop.md) | [Spark](Spark.md) | [Flink](Flink.md) | [AI & ML](AI.md)
+[Hadoop](Hadoop.md) | [Spark](Spark.md) | [Flink](Flink.md)
 
 ## Concepts
 
