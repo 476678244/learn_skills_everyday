@@ -1,3 +1,5 @@
+[AI让效率再次提升，人类该干什么？](https://tumutanzi.com/archives/17493)
+
 ## LLM
 
 [最好的致敬是学习：DeepSeek-R1 赏析](https://mp.weixin.qq.com/s/_XGBipbywCOtcKu13QDW5Q)
