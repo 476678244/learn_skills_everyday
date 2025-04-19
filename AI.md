@@ -1,6 +1,8 @@
-[AI让效率再次提升，人类该干什么？](https://tumutanzi.com/archives/17493)
-
 ## LLM
+
+[本地大模型之路（一）：大模型的是什么、为什么以及怎么选](https://sspai.com/post/94875)
+[本地大模型之路（二）：了解模型能力与性能需求，让硬件选购恰到好处](https://sspai.com/post/95262)
+[本地大模型之路（三）：推理引擎和 LLM 应用](https://sspai.com/post/96911)
 
 [最好的致敬是学习：DeepSeek-R1 赏析](https://mp.weixin.qq.com/s/_XGBipbywCOtcKu13QDW5Q)
 
@@ -32,6 +34,8 @@
 >Dropout 可以认为是一种模型训练方法，其中每批数据训练时只有一定比例的权重被更新，而其余的权重不被更新
 
 ## 应用
+[AI让效率再次提升，人类该干什么？](https://tumutanzi.com/archives/17493)
+
 [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
 
 [AI 作曲 （完整思路）](https://eurychen.me/post/music/ai-compose-music/)
