@@ -36,6 +36,8 @@
 >Dropout 可以认为是一种模型训练方法，其中每批数据训练时只有一定比例的权重被更新，而其余的权重不被更新
 
 ## 应用
+[GGUF](https://my.oschina.net/HuggingFace/blog/18017572)
+
 [AI让效率再次提升，人类该干什么？](https://tumutanzi.com/archives/17493)
 
 [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
