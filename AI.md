@@ -8,6 +8,8 @@
 
 [最好的致敬是学习：DeepSeek-R1 赏析](https://mp.weixin.qq.com/s/_XGBipbywCOtcKu13QDW5Q)
 
+[MCP 协议：LLM 应用开发的 “Type-C”](https://my.oschina.net/u/4489239/blog/17989059)
+
 ## 入门
 [CPU vs. GPU](https://www.infoq.cn/article/UU1l5ayRqQBNyKZtLFQo?utm_source=rss&utm_medium=article)
 
