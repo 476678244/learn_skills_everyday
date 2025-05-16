@@ -7,7 +7,7 @@
 [Weekly直播笔记](wang_yue_nan_tian.md) | [B站](https://space.bilibili.com/43441095)
 
 ## Data Science
-[AI & ML](AI.md)
+[AI & ML & LLM & Agent](AI.md)
 
 [Hadoop](Hadoop.md) | [Spark](Spark.md) | [Flink](Flink.md)
 
