@@ -1,3 +1,6 @@
+```
+对投资交易来说，我的教训是，人性＞思维＞认知＞工具 - 南添
+```
 ## 工具
 
 [Choices金融终端](https://choice.eastmoney.com/)
