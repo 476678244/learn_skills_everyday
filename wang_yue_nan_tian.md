@@ -22,3 +22,5 @@
 [路遥女包]()
 
 ## 人性
+
+[信息素的信息:第二次世界大战](https://space.bilibili.com/44412187/lists?sid=1023612&spm_id_from=333.788.0.0)
