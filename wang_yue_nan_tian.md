@@ -12,6 +12,8 @@
 - 6M: MA126 (White)
 - 1Y: MA252 (Light Blue)
 
+[Estimated ETF Net Issuance](https://www.ici.org/research/stats/etf_flows)
+
 ## 认知
 
 [RSP vs. SPY]()
