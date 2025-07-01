@@ -7,10 +7,10 @@
 [Choices金融终端](https://choice.eastmoney.com/)
 
 #### 成本线
-- 1M: MA21 (Blue)
-- 2M: MA42 (Green)
-- 6M: MA126 (White)
-- 1Y: MA252 (Light Blue)
+- 1M: MA21 (Blue)        -> 情绪面
+- 2M: MA42 (Green)       -> 流动性 
+- 6M: MA126 (White)      -> 宏观面
+- 1Y: MA252 (Light Blue) -> 基本面
 
 [Estimated ETF Net Issuance](https://www.ici.org/research/stats/etf_flows)
 
