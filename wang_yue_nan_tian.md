@@ -6,7 +6,7 @@
 
 [Choices金融终端](https://choice.eastmoney.com/)
 
-[ECONOVIS](https://www.econovis.net/)
+[[ECONOVIS](https://www.econovis.net/)](https://x.com/econovisuals)
 ```
 Economic Research, Analysis, and Visualizations
 ```
