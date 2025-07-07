@@ -6,6 +6,11 @@
 
 [Choices金融终端](https://choice.eastmoney.com/)
 
+[ECONOVIS](https://www.econovis.net/)
+```
+Economic Research, Analysis, and Visualizations
+```
+
 #### 成本线
 - 1M: MA21 (Blue)        -> 情绪面
 - 2M: MA42 (Green)       -> 流动性 
