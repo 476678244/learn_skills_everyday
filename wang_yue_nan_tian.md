@@ -30,7 +30,11 @@ Economic Research, Analysis, and Visualizations
 
 ## 思维
 
-[路遥女包]()
+[路遥女包](https://www.douyin.com/user/MS4wLjABAAAADrN392li1MUtVrc1cJRoV_DBoryGfMWukNGPtPm0RIsp6YBtJoje1-YFQGvlU3r2?from_tab_name=main)
+
+#### 模式识别
+
+[IWM vs. SPY]()
 
 ## 人性
 
