@@ -4,6 +4,8 @@
 ```
 ## 工具
 
+[US10Y - United States 10-Year Bond Yield](https://seekingalpha.com/symbol/US10Y)
+
 [Choices金融终端](https://choice.eastmoney.com/)
 
 [ECONOVIS](https://www.econovis.net/) [https://x.com/econovisuals](https://x.com/econovisuals)
