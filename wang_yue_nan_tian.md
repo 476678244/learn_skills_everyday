@@ -21,6 +21,8 @@ Economic Research, Analysis, and Visualizations
 
 [Estimated ETF Net Issuance](https://www.ici.org/research/stats/etf_flows)
 
+[NAAIM Exposure Index number](https://naaim.org/programs/naaim-exposure-index/)
+
 ## 认知
 
 [RSP vs. SPY](https://portfolioslab.com/tools/stock-comparison/RSP/SPY)
