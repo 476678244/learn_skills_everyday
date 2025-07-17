@@ -23,6 +23,8 @@ Economic Research, Analysis, and Visualizations
 
 [NAAIM Exposure Index number](https://naaim.org/programs/naaim-exposure-index/)
 
+[国家统计局指标](https://data.stats.gov.cn/easyquery.htm?cn=A01)
+
 ## 认知
 
 [RSP vs. SPY](https://portfolioslab.com/tools/stock-comparison/RSP/SPY)
