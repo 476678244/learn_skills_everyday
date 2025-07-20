@@ -19,9 +19,9 @@ Economic Research, Analysis, and Visualizations
 - 6M: MA126 (White)      -> 宏观面
 - 1Y: MA252 (Light Blue) -> 基本面
 
-[Estimated ETF Net Issuance](https://www.ici.org/research/stats/etf_flows)
+[Estimated ETF Net Issuance](https://www.ici.org/research/stats/etf_flows) : 流动性
 
-[NAAIM Exposure Index number](https://naaim.org/programs/naaim-exposure-index/)
+[NAAIM Exposure Index number](https://naaim.org/programs/naaim-exposure-index/) : 机构仓位
 
 [国家统计局指标](https://data.stats.gov.cn/easyquery.htm?cn=A01)
 
