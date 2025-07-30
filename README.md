@@ -2,10 +2,6 @@
 - 曾经读过的有价值又简单易懂的文章
 - [RSS](https://github.com/476678244/learn_skills_everyday/commits/main.atom)
 
-## 南添老师
-
-[Weekly直播笔记](wang_yue_nan_tian.md) | [B站](https://space.bilibili.com/43441095)
-
 ## Data Science
 [AI & ML & LLM & Agent](AI.md)
 
@@ -30,3 +26,7 @@
 ## Others
 
 [Life&Tips](Life.md) | [Philosophy](Philosophy.md) | [投资理财](Investment.md) | [代码英雄](%E4%BB%A3%E7%A0%81%E8%8B%B1%E9%9B%84.md)
+
+### 南添老师
+
+[Weekly直播笔记](wang_yue_nan_tian.md) | [B站](https://space.bilibili.com/43441095)
