@@ -74,3 +74,5 @@
 
 ## Books
 [Spark海量数据处理：技术详解与平台实战](https://weread.qq.com/web/reader/483326b071a52591483e940kc81322c012c81e728d9d180)
+
+[Apache Spark 设计与实现](https://weread.qq.com/web/reader/c0932250813aba1d5g0126e3#outline?noScroll=1)
