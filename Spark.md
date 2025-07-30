@@ -52,6 +52,8 @@
 >checkpointing is a sort of reuse of RDD partitions when failures occur during job execution
 
 ## 理解
+[Spark Shuffle 原理](https://xie.infoq.cn/article/a5ce4525d848d96d9d96950df)
+>对于所有 Map Task 生成的中间文件，Reduce Task 需要通过网络从不同节点的硬盘中下载并拉取属于自己的数据内容 
 
 [Spark程序的生命周期](https://www.cnblogs.com/zzq6032010/p/15516323.html)
 >客户端将程序包（jar包或代码库）提交到集群管理器的驱动节点（即master节点），此时驱动节点会给Spark驱动器进程申请资源，并将其在某一个节点服务器上启动起来。程序包也发给Spark驱动器。
