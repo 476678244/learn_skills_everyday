@@ -15,7 +15,7 @@ Economic Research, Analysis, and Visualizations
 
 #### 13F 抄作业
 
-[https://www.dataroma.com/m/grid.php](标普500价投集中度热力图)
+[标普500价投集中度热力图](https://www.dataroma.com/m/grid.php)
 
 #### 成本线
 - 1M: MA21 (Blue)        -> 情绪面
