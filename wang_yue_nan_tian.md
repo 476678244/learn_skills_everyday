@@ -17,6 +17,8 @@ Economic Research, Analysis, and Visualizations
 
 [标普500价投集中度热力图](https://www.dataroma.com/m/grid.php)
 
+[CPNG股东](https://whalewisdom.com/stock/cpng)
+
 #### 成本线
 - 1M: MA21 (Blue)        -> 情绪面
 - 2M: MA42 (Green)       -> 流动性 
