@@ -17,7 +17,7 @@ Economic Research, Analysis, and Visualizations
 
 [标普500价投集中度热力图](https://www.dataroma.com/m/grid.php)
 
-[CPNG股东](https://whalewisdom.com/stock/cpng)
+[CPNG股东](https://whalewisdom.com/stock/cpng) [斯坦持仓](https://whalewisdom.com/filer/duquesne-family-office-llc)
 
 #### 成本线
 - 1M: MA21 (Blue)        -> 情绪面
