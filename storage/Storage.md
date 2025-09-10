@@ -1,6 +1,8 @@
 ## 缓存
 [缓存穿透、缓存击穿、缓存雪崩](https://www.damon8.cn/2020/07/27/mq-01/)
 
+[Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+
 ## Data Warehouse
 [数仓架构发展史](https://www.cnblogs.com/data-magnifier/p/14128335.html)
 
