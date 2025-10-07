@@ -39,6 +39,8 @@
 [过拟合](https://juejin.cn/post/7087483936237944839)
 >Dropout 可以认为是一种模型训练方法，其中每批数据训练时只有一定比例的权重被更新，而其余的权重不被更新
 
+[最通俗易懂的注意力机制（Attention）讲解](https://www.bilibili.com/video/BV1rNoqYWEbd?spm_id_from=333.788.videopod.sections&vd_source=8a2ac354cbb86c18cb6850120d9cf644)
+
 ## 应用
 
 [让你彻底弄懂 MCP 的一切](https://www.escapelife.site/posts/3ac10bcf.html)
