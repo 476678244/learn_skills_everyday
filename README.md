@@ -29,4 +29,4 @@
 
 ### 南添老师
 
-[Weekly直播笔记](wang_yue_nan_tian.md) | [B站](https://space.bilibili.com/43441095)
+[Weekly直播笔记](wang_yue_nan_tian.md) | [B站](https://space.bilibili.com/43441095) | [每周贝叶斯事件](https://github.com/476678244/learn_skills_everyday/commits/main/bayes/%E6%AF%8F%E5%91%A8%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BA%8B%E4%BB%B6/every_week_bayes_events.md)
